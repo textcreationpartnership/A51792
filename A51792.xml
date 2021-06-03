@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the election of the honourable and approved patriots, Sir Harbottle Grimston, master of the rolls, and Capt. Reynolds to serve in Parliament for burgesses for the town of Colchester in Essex upon Tuesday the 15th of February, 1680.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51792</idno><idno type="EEBO-CITATION">13568010</idno>
+  <idno type="VID">100337</idno>
+  <idno type="EEBO-PROQUEST">2264215817</idno>
+  
+            <idno type="STC">Wing M468</idno>
+            <idno type="STC">ESTC R10681</idno>
+            <idno type="OCLC">13568010</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 465:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the election of the honourable and approved patriots, Sir Harbottle Grimston, master of the rolls, and Capt. Reynolds to serve in Parliament for burgesses for the town of Colchester in Essex upon Tuesday the 15th of February, 1680.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Grimston, Harbottle, --  Sir, 1603-1685.</term>
+               <term type="personal_name">Reynolds, Samuel, --  Capt.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100337:1"/>
+            <head>The manner of the ELECTION Of the Honourable and Approved Patriots, Sir HARBOTTLE GRIMSTON, Master of the ROLLS, AND Capt. REYNOLDS, To Serve in PARLIAMENT, FOR BURGESSES for the Town of COLCHESTER IN ESSEX; Upon <hi>Tuesday</hi> the 15th of <hi>February,</hi> 1680.</head>
+            <p>THe Competitors were, the Master of the Rolls, and Sir <hi>Walter Clarges</hi> (Son of Sir <hi>Thomas Clarges</hi>) who were former Burgesses; and <hi>Samuel Reynolds</hi> Esquire, (a Gentleman lately put out of the Commission of the Peace, and of the Place of Captain of Horse in the <hi>Militia.</hi>) Be<g ref="char:EOLhyphen"/>fore the Election there was great Confidence that Sir <hi>Walter</hi> would carry it against Mr. <hi>Reynolds:</hi> but it being discovered, that Sir <hi>Walter</hi> had Voted for the D. of <hi>Y.</hi> they generally decli<g ref="char:EOLhyphen"/>ned him; notwithstanding, he being Kinsman to the Duke of <hi>Albemarle,</hi> was accompanied by His Grace, who is our Lord Lieutenant and Recorder; and had also the Assistance of almost all our Magistrates. The Numbers, upon casting up the Books, were thus: For the <hi>Master of the Rolls,</hi> 418. For Mr. <hi>Reynolds,</hi> 308. and for Sir <hi>Walter,</hi> 218. And it is the more observeable that the Election was thus carried, when Mr. <hi>Reynolds,</hi> though he was a Justice of the Peace at the Election of the last Parliament, did then, in a Contest with Sir <hi>Walter,</hi> poll but about 130, when Sir <hi>Walter</hi> polled about 290. Our Mayor manifested himself in the whole Proceeding inclinable to Sir <hi>Walter,</hi> by encouraging those that were for him, and calling for the Officers of the Town that he knew were against Mr. <hi>Reynolds</hi> to come to Poll, and did fre<g ref="char:EOLhyphen"/>quently
+<pb facs="tcp:100337:2"/>treat those that offered themselves for Mr. <hi>Reynolds</hi> with reproachful Language, and put Queries upon several of the Ele<g ref="char:EOLhyphen"/>ctors; and however after it appeared that Mr. <hi>Reynolds</hi> had car<g ref="char:EOLhyphen"/>ried it by 56 undoubted Voices, upon whom <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had put no Que<g ref="char:EOLhyphen"/>ries, he refused to proclaim the Election of the <hi>Master of the Rolls</hi> and Mr. <hi>Reynolds,</hi> and said he would consider of it till <hi>Monday</hi> next; when we doubt not but he will remember his Duty, and seal the Indentures of the Election, in hopes to prevent Serjeant <hi>Topham</hi>'s conducting him to <hi>Oxford.</hi>
+            </p>
+            <p>In the time of the Poll there was this pleasant Passage: A Per<g ref="char:EOLhyphen"/>son coming to Vote, declared himself for Mr. <hi>Reynolds,</hi> and ac<g ref="char:EOLhyphen"/>knowledged that he had been engaged three Weeks before for Sir <hi>Walter,</hi> but said that he was better informed; and though he was but a <hi>Cobler,</hi> he would not trust Sir <hi>Walter</hi> to give away his <hi>All.</hi>
+            </p>
+            <p>After the Election made, the Free Burgesses agreed upon the following Address.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="address">
+                        <head>To the Honourable Sir <hi>Harbottle Grimston</hi> Baronet, and <hi>Samuel Reynolds</hi> Esquire, now chosen Burgesses for our Corporation of <hi>Colchester,</hi> in the Country of <hi>Essex.</hi>
+                        </head>
+                        <p>WE, the Free Burgesses of the said Corporation, being deeply sensible of the unspeakable danger threatning His Majesty's Life, and the Protestant Religion, and the well established Govern<g ref="char:EOLhyphen"/>ment of this Kingdom, from the Hellish Designs of the Papists, and their wicked Adherents: And that our Religion and Liberties can only, under God, be secured to us, and our Posterity, by wholsome Ad<g ref="char:EOLhyphen"/>vice in Parliament; have now chosen you to represent us there, in con<g ref="char:EOLhyphen"/>fidence of your Integrity and Courage to discharge so great a Trust in this time of Imminent Danger. And we do desire you to allow us to speak our stedfast Resolution (with utmost hazard of our Lives and Fortunes) to shew our Approbation of what shall be resolved in Par<g ref="char:EOLhyphen"/>liament, for the maintaining the Protestant Religion, and our Liber<g ref="char:EOLhyphen"/>ties, against Popery and Arbitrary Government. And we hope you will endeavour, to the utmost of your Power, to disable <hi>James</hi> Duke of <hi>York,</hi> and all other Popish Pretenders, from inheriting the Imperial Crown of this Realm. And we shall pray for your good Success.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And so the Day was ended, to the general Satisfaction of the Town.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Janeway.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
